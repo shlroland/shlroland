@@ -1,7 +1,7 @@
 ### Hi there 👋
 email: wsdehl@163.com && shlroland1995@gmail.com
 </br>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shlroland&theme=synthwave)]
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shlroland&theme=synthwave)
 <!--
 **shlroland/shlroland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
